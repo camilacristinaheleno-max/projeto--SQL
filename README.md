@@ -4,7 +4,7 @@
 
 ## 📌 O que tem aqui
 Arquivos com todas as etapas que desenvolvi:
-- Criação de banco e tabelas
+- Criação de banco e tabelas 
 - Inserção, consulta e alteração de dados
 - Consultas com filtros e ordenação
 - Junção de tabelas (JOIN)
